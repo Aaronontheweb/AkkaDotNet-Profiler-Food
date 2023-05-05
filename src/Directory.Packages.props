@@ -6,7 +6,7 @@
   <ItemGroup>
     <PackageVersion Include="Akka" Version="1.5.0-beta1" />
     <PackageVersion Include="Akka.Persistence.Hosting" Version="1.5.0-beta1" />
-    <PackageVersion Include="Akka.Streams" Version="1.5.0-beta1" />
+    <PackageVersion Include="Akka.Streams" Version="1.5.5" />
   </ItemGroup>
   <!-- Test Package Versions -->
   <ItemGroup>
